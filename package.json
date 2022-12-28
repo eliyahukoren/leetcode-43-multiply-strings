@@ -1,0 +1,17 @@
+{
+	"name": "43_LeetCode",
+	"description": "43. Multiply Strings",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Eliyahu Koren <elik.koren@gmail.com>",
+	"license": "MIT",
+	"categories": [
+		"LeetCode",
+		"Javascript",
+		"algorithm",
+		"Jest"
+	],
+	"scripts": {
+		"test": "jest"
+	}
+}
